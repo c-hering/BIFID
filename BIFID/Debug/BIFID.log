@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\id student\desktop\caleb h\bifid\bifid\source.cpp(85): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\id student\desktop\caleb h\bifid\bifid\source.cpp(61): warning C4101: 'choice': unreferenced local variable
+c:\users\id student\desktop\caleb h\bifid\bifid\source.cpp(69): warning C4101: 'output': unreferenced local variable
+c:\users\id student\desktop\caleb h\bifid\bifid\source.cpp(66): warning C4101: 'new_x': unreferenced local variable
+c:\users\id student\desktop\caleb h\bifid\bifid\source.cpp(67): warning C4101: 'new_y': unreferenced local variable
+  BIFID.vcxproj -> C:\Users\iD Student\Desktop\Caleb H\BIFID\Debug\BIFID.exe
+  BIFID.vcxproj -> C:\Users\iD Student\Desktop\Caleb H\BIFID\Debug\BIFID.pdb (Full PDB)
